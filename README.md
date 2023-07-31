@@ -2,9 +2,9 @@
 
 #### Junior Data Analyst 
 👩🏻‍💻 Working as a data analyst in disital marketing 
- 
+<br/>
 🔥 Let's always be a growing analyst 
- 
+<br/>
 🌈 Don't be scared and do whatever you want 
  
 
