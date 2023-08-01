@@ -19,4 +19,4 @@
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/google analytics-E37400?style=flat-google analytics&logo=Eclipse IDE&logoColor=white"/>
 
 <br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jemjemster&show_icons=true&theme=buefy) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jemjemster&layout=compact&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jemjemster&show_icons=true&theme=buefy)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jemjemster&layout=compact&theme=buefy)
