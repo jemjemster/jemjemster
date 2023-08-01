@@ -7,8 +7,6 @@
 🔥 Let's always be a growing analyst 
 <br/>
 🌈 Don't be scared and do whatever you want 
-
- 
 <br/><br/>
 ### Learning
 
