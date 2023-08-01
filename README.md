@@ -16,7 +16,8 @@
 
 ### Tools 
 
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/google analytics-E37400?style=flat-google analytics&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=flat-Microsoft Office&logo=Eclipse IDE&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/google analytics-E37400?style=flat-square&logo=google analytics&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=flat-square&logo=Microsoft Office&logoColor=white"/>
+ 
 
 <br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jemjemster&show_icons=true&theme=buefy)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jemjemster&layout=compact&theme=buefy)
