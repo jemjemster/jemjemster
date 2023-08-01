@@ -1,6 +1,6 @@
 ### Hi Welcome! I'm JiHye Kim 🐣
 
-### Junior Data Analyst
+#### Junior Data Analyst
 
 👩🏻‍💻 Working as a data analyst in disital marketing 
 <br/>
